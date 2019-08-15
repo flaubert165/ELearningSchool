@@ -1,0 +1,14 @@
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.deps.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.runtimeconfig.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.runtimeconfig.dev.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.pdb
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.csprojAssemblyReference.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.csproj.CoreCompileInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.AssemblyInfoInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.AssemblyInfo.cs
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrastructure.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Infrastructure.Tests.pdb

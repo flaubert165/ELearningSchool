@@ -1,0 +1,14 @@
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.deps.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.runtimeconfig.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.runtimeconfig.dev.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\bin\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.pdb
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.csprojAssemblyReference.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.csproj.CoreCompileInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.AssemblyInfoInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.AssemblyInfo.cs
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application.Tests\obj\Debug\netcoreapp2.1\ELearningSchool.Application.Tests.pdb

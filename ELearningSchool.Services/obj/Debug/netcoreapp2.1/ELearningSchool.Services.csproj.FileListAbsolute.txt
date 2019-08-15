@@ -1,0 +1,8 @@
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Services\bin\Debug\netcoreapp2.1\ELearningSchool.Services.deps.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Services\bin\Debug\netcoreapp2.1\ELearningSchool.Services.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Services\bin\Debug\netcoreapp2.1\ELearningSchool.Services.pdb
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Services\obj\Debug\netcoreapp2.1\ELearningSchool.Services.csproj.CoreCompileInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Services\obj\Debug\netcoreapp2.1\ELearningSchool.Services.AssemblyInfoInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Services\obj\Debug\netcoreapp2.1\ELearningSchool.Services.AssemblyInfo.cs
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Services\obj\Debug\netcoreapp2.1\ELearningSchool.Services.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Services\obj\Debug\netcoreapp2.1\ELearningSchool.Services.pdb

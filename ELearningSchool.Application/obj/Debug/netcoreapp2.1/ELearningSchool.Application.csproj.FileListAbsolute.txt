@@ -1,0 +1,14 @@
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\bin\Debug\netcoreapp2.1\ELearningSchool.Application.deps.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\bin\Debug\netcoreapp2.1\ELearningSchool.Application.runtimeconfig.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\bin\Debug\netcoreapp2.1\ELearningSchool.Application.runtimeconfig.dev.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\bin\Debug\netcoreapp2.1\ELearningSchool.Application.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\bin\Debug\netcoreapp2.1\ELearningSchool.Application.pdb
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\obj\Debug\netcoreapp2.1\ELearningSchool.Application.csprojAssemblyReference.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\obj\Debug\netcoreapp2.1\ELearningSchool.Application.csproj.CoreCompileInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\obj\Debug\netcoreapp2.1\ELearningSchool.Application.RazorAssemblyInfo.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\obj\Debug\netcoreapp2.1\ELearningSchool.Application.RazorAssemblyInfo.cs
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\obj\Debug\netcoreapp2.1\ELearningSchool.Application.AssemblyInfoInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\obj\Debug\netcoreapp2.1\ELearningSchool.Application.AssemblyInfo.cs
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\obj\Debug\netcoreapp2.1\ELearningSchool.Application.RazorTargetAssemblyInfo.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\obj\Debug\netcoreapp2.1\ELearningSchool.Application.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Application\obj\Debug\netcoreapp2.1\ELearningSchool.Application.pdb

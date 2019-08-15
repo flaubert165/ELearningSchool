@@ -1,0 +1,9 @@
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrasctructure\bin\Debug\netcoreapp2.1\ELearningSchool.Infrasctructure.deps.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrasctructure\bin\Debug\netcoreapp2.1\ELearningSchool.Infrasctructure.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrasctructure\bin\Debug\netcoreapp2.1\ELearningSchool.Infrasctructure.pdb
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrasctructure\obj\Debug\netcoreapp2.1\ELearningSchool.Infrasctructure.csprojAssemblyReference.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrasctructure\obj\Debug\netcoreapp2.1\ELearningSchool.Infrasctructure.csproj.CoreCompileInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrasctructure\obj\Debug\netcoreapp2.1\ELearningSchool.Infrasctructure.AssemblyInfoInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrasctructure\obj\Debug\netcoreapp2.1\ELearningSchool.Infrasctructure.AssemblyInfo.cs
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrasctructure\obj\Debug\netcoreapp2.1\ELearningSchool.Infrasctructure.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Infrasctructure\obj\Debug\netcoreapp2.1\ELearningSchool.Infrasctructure.pdb

@@ -1,0 +1,9 @@
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Domain\bin\Debug\netcoreapp2.1\ELearningSchool.Domain.deps.json
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Domain\bin\Debug\netcoreapp2.1\ELearningSchool.Domain.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Domain\bin\Debug\netcoreapp2.1\ELearningSchool.Domain.pdb
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Domain\obj\Debug\netcoreapp2.1\ELearningSchool.Domain.csprojAssemblyReference.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Domain\obj\Debug\netcoreapp2.1\ELearningSchool.Domain.csproj.CoreCompileInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Domain\obj\Debug\netcoreapp2.1\ELearningSchool.Domain.AssemblyInfoInputs.cache
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Domain\obj\Debug\netcoreapp2.1\ELearningSchool.Domain.AssemblyInfo.cs
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Domain\obj\Debug\netcoreapp2.1\ELearningSchool.Domain.dll
+C:\Users\italo\Source\Repos\ELearningSchool.Application\ELearningSchool.Domain\obj\Debug\netcoreapp2.1\ELearningSchool.Domain.pdb
